@@ -1,0 +1,26 @@
+1.) install node 
+2.) after installation check the node version.
+    node -version
+3.) install reactjs by using 
+    npx create-react-app <app_name>
+4.) To run the react project
+    npm start (or) yarn start
+    
+------------------------
+format flow is App.js -> index.js -> index.html
+
+=========================
+return (
+    <div>
+      <h1>Hello world</h1>
+    </div>
+  );
+
+called as jxs
+===========================================
+Autocomplete for React JSX 😍 Very Important
+Open the settings
+
+Open Setting(JSON) file located on Top Right Corner
+
+Add the following Code => "emmet.includeLanguages": {"javascript": "javascriptreact"},
