@@ -1,0 +1,50 @@
+What is React?
+
+-> Open source library for building user interfaces
+-> it is not a framework
+-> it will focus on UI
+-> Rich ecosystem
+
+Why learn React?
+
+-> Created and maintained by Facebook
+-> More than 100k starts on GitHub
+-> Huge community
+-> In demand skillset
+
+Component based Architecture:
+-> This lets us break down our application into small encapsulated parts which can then be composed to make
+more complex UIs for example:
+header
+sidenav
+main content
+footer
+
+--> Components also make it possible to write reusable code for example 
+you could have the component for an article on react the same component
+can be reused for articles on angular or view by simply passing the right data 
+into the article component.
+
+--> react is declarative, basically we does that mean well basically we just have to tell react 
+what we want and react with its react Dom library will build the actual UI this is 
+the declarative paradigm, now this is in contrast with the imperative paradigm, which we are usually used to 
+which implements algorithms in explicit steps.
+
+declarative -> gives the task and does not specify how to do the task
+imperative -> gives the task and guides how to do the task.
+
+-> React will handle efficiently updating and rendering of the components.
+-> Dom updates are handles gracefully in react.
+-> Seamlessly integrate react into any of your applications
+-> Portion of our page or a complete page or even an entire application itself.
+-> React native for mobile applications.
+
+-------------------------------
+Prerequisites:
+HTML,CSS and Javascript fundamentals
+ES6
+Javascript -> 'this' keyword, filter, map and reduce
+ES6 -> let & const, arrow functions, template literals, default parameters, objetc literals, rest and spread operators and destructing assignment.
+
+
+

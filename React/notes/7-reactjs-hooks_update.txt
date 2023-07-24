@@ -1,0 +1,8 @@
+Hooks:
+-> new feature proposal that lets us use state and other 
+React features without writing a class.
+
+-> No breaking changes.
+-> completely opt-in & 100% backwards-compatible.
+-> component types -> fuctional components and class components
+-> using state, lifecycle methods and 'this' binding.

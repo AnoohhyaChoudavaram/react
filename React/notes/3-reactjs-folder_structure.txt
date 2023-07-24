@@ -1,0 +1,3 @@
+package.json -> contains dependecies
+-> scirpts to run the application or even test
+nodemodules -> here where all dependecies are downloaded.

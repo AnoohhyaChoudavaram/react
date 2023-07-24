@@ -1,0 +1,8 @@
+functional components:
+-> are just Javascript functions, they can optionally receive an object of 
+properties which is referred to as props and return HTML which
+describes the UI.
+-> HTML - is actually known as JSX 
+
+* A functional component is a Javascript function that accepts an input of properties
+and returns HTML that describes the UI

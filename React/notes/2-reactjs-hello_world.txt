@@ -1,0 +1,12 @@
+We us create react app -> which is a command line interface tool.
+# npx create-react-app <name of the project>
+# npx create-react-app hello-world
+# cd hello-world
+# npm start
+
+-> npx is a npm package runner -> create the package
+-> npm -> we need to install create-react-app -g globally
+and create-react-app <project_name>
+-> here we not need to install the npm gloabally
+instead of this we use npx.
+ 

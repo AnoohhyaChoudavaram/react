@@ -1,0 +1,31 @@
+Class components;
+-> Class components are basically es6 classes, similar to a fuctional component a class component also can 
+optinally receive props as input and return HTML, apart from the props a class component can also maintain a private internal state in
+simpler words it can maintain some information which is private to that component and use that information to
+describe the user interface.
+
+properties(props) ---> ES6 ---> HTML (jsx)
+
+----------fuctional vs Class components-------------
+
+fuctional:
+-> Simple fuctions receiving props and returning a declaration.
+-> use the fuctional components as much as possible and by that I mean if it is possible to create a component
+with both the approaches always go with the fuctional component approach
+=> first advantage of using a fuctional component over teh class component is the absence of this keyword
+- which we will encounter in a class-based component this keyword
+->(absence of this keyword)
+=> forced to think of a solution without having to use state, if we have a number of components
+each with their own private state maintenance and debugging our application -> kind of difficult.
+->(mainly responsible for the user interface)
+->stateless/dumb/ presentational components
+
+
+Class:
+-> more feature rich
+-> maintain their own private data -state
+-> complex UI logic
+-> provide lifecycle hooks
+-> statefull / smart / container components
+
+

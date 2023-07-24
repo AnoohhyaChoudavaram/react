@@ -1,0 +1,2 @@
+props -> short for properties is the optional input that 
+our component can accept, it also allows the component to be dynamic

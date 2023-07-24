@@ -1,0 +1,34 @@
+Component:
+-> part of userinterface
+header
+sidenav
+main component
+footer
+one component to contain other component i.e Root (App) Component
+Components are also reusable
+left sidenav and can be reused as right sidenav
+
+basically Component code is placed in Javascript file.
+basically AppComponent code is placed in App.js file.
+
+Component types:
+1.) stateless functional component
+-> Javascript Components
+example:
+function Welcome(props) {
+    return <h1> Hello, {props.name}</h1>;
+}
+
+2.) Stateful class component
+-> class extending returing HTML
+class Welcome extends Reat.Component {
+    render() {
+        return <h1>Hello, {this.props.name}</h1>;
+    }
+}
+Components Summary:
+-> components describe a part of the user interface
+-> They are re-usable and can be nested inside other components
+-> Two types:-
+1.) stateless functional components
+2.) Stateful functional components
