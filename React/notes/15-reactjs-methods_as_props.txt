@@ -1,0 +1,2 @@
+we pass in a reference to a method as props.
+-> to the child component.

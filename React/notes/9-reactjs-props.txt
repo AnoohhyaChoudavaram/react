@@ -1,2 +1,8 @@
 props -> short for properties is the optional input that 
 our component can accept, it also allows the component to be dynamic
+
+--> pass a name from app component to the greet component and render that name in the browser
+to specify props for a component wespecify them as attributes, to specify a name property we simply,
+add thename attribute we assign the value .
+
+--> props are immutable, the value cannot be changed.

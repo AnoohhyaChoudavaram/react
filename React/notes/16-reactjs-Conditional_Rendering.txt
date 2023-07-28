@@ -1,0 +1,6 @@
+Conditional rendering in react works the same way conditions work in JavaScript.
+have 4 different approaches
+1.) if/else
+2.) Element variables
+3.) Ternary conditional operator
+4.) Short circuit operator
