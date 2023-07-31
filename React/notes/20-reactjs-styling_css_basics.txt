@@ -1,0 +1,6 @@
+Styling React Components:
+1.) CSS styleshets
+2.) Inline Styling
+3.) CSS modules
+4.) Css in js libraries (styled Components)
+
